@@ -4,8 +4,8 @@ const cors = require("cors");
 const querystring = require("querystring");
 const cookieParser = require("cookie-parser");
 
-const client_id = "bd3bc8a80583459da63dc134dc5a53b1"; // Your client id
-const client_secret = "0f2d05ce29934369a99e1a67d5a4c161"; // Your secret
+const client_id = ""; // Your client id
+const client_secret = ""; // Your secret
 const redirect_uri = "http://localhost:8888/callback"; // Your redirect uri
 
 /**
